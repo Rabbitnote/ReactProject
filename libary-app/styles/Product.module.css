@@ -1,0 +1,12 @@
+.img{
+    width: 150px;
+    height: 200px;
+}
+.container{
+    border-style: solid;
+    border-color: black;
+    padding: 30px;
+    background-color:#F0FFFF;
+    color:black;
+    flex:0 0 33.333333%;
+}

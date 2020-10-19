@@ -1,0 +1,9 @@
+.div{
+    display:flex;
+    flex-wrap: wrap;
+    padding:0 50px;
+    margin-top: 50px;
+    width: 100vw;
+
+
+}

@@ -10,10 +10,11 @@ const Store = () => {
                     <option value='price'>Sort by price</option>
                     <option value='rating'>Sort by rating</option>
                     <option value='date'>sort by date</option>
-
                 </select>
             </div>
-            <Product></Product>
+            <div className={Styles.product}>
+                <Product></Product>
+            </div>
         </Layout>
     );
 };
